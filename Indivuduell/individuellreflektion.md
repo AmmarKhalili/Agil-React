@@ -31,7 +31,7 @@ vi har skapat en filmdatabas-applikation med hjälp av frontendbiblioteket React
 ### Teamets utmaningar och lösningar
 
 #### Vika var de största utmaningarna för dig?
-1. **Tidsbegränsning**: Att hantera projektet inom en begränsad tidsram var en utmaning. Det innebar att effektivisera arbetsprocessen och prioritera uppgifter för att uppnå önskade mål inom angiven tid.
+1. Tidsbegränsning: Att hantera projektet inom en begränsad tidsram var en utmaning. Det innebar att effektivisera arbetsprocessen och prioritera uppgifter för att uppnå önskade mål inom angiven tid.
 
 #### Hur löste eller hanterade du dessa utmaningar?
 
